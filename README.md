@@ -15,4 +15,5 @@
 ### 📌 목차
 -------------
 [컴퓨터 네트워크 시작하기](https://github.com/NetworkCStudy/network-study/blob/main/1%EC%9E%A5.md) </br>
-[물리계층과 데이터 링크 게층](https://github.com/NetworkCStudy/network-study/blob/main/2%EC%9E%A5.md)
+[물리계층과 데이터 링크 게층](https://github.com/NetworkCStudy/network-study/blob/main/2%EC%9E%A5.md) </br>
+[네트워크계층](https://github.com/NetworkCStudy/network-study/blob/main/3%EC%9E%A5.md) </br>
